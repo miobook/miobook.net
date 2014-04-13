@@ -3,4 +3,4 @@ miobook.net
 www.miobook.net
 
 ===========
-alipay.go   xxx.xxx.com/mobile/alipay/pay?orderCode=1234567890
+alipay.go   www.miobook.net/mobile/alipay/pay?orderCode=1234567890
